@@ -16,7 +16,7 @@
 
 ---
 
-Data Engineer with 2 years of experience building and migrating **production Spark/Scala ETL pipelines at enterprise scale** for **Expedia, Atlassian, and adidas**. I migrate large data estates to the cloud with **zero data loss**, fix data governance at scale, and automate the boring parts with Python.
+Data Engineer with 2+ years of experience building and migrating **production Spark/Scala ETL pipelines at enterprise scale** for **Expedia, Atlassian, and adidas**. I migrate large data estates to the cloud with **zero data loss**, fix data governance at scale, and automate the boring parts with Python.
 
 - 🔭 Currently: Data Engineer on Expedia Group's Business Performance Engineering team
 - 🏢 Worked across 3 Fortune 500 clients: **Expedia · Atlassian · adidas**
