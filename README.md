@@ -29,12 +29,12 @@ Data Engineer with **2+ years** building and migrating **production Spark/Scala 
 
 ```python
 class AdityaYadav:
-    role        = "Data Engineer @ EPAM Systems"
-    clients     = ["Expedia", "Atlassian", "Adidas"]
-    scale       = "200+ tables · billions of rows · zero data loss"
-    stack       = ["Spark", "Scala", "Python", "AWS", "Databricks", "Delta Lake", "Airflow", "dbt", "Kafka"]
-    awards      = "2x EPAM Kata Winner (Gen-AI & Architectural, 2026)"
-    motto       = "I don't just move data — I make it reliable, governed, and fast."
+    role     = "Data Engineer @ EPAM Systems"
+    clients  = ["Expedia", "Atlassian", "Adidas"]
+    scale    = "200+ tables · billions of rows · zero data loss"
+    stack    = ["Spark", "Scala", "Python", "AWS", "Databricks", "Delta Lake", "Airflow", "dbt", "Kafka"]
+    awards   = "2x EPAM Kata Winner (Gen-AI & Architectural, 2026)"
+    motto    = "I don't just move data — I make it reliable, governed, and fast."
 ```
 
 - 🔭 **Currently:** Data Engineer on Expedia Group's Business Performance Engineering (BPE) team
@@ -66,8 +66,8 @@ class AdityaYadav:
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
-![Delta Lake](https://img.shields.io/badge/Delta_Lake-003366?style=for-the-badge&logo=delta&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=icloud&logoColor=white)
+![Delta Lake](https://img.shields.io/badge/Delta_Lake-00ADD4?style=for-the-badge&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
 **Orchestration · Modeling · Tools**
@@ -111,11 +111,16 @@ class AdityaYadav:
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=adityayadav97&theme=tokyonight&hide_border=true&background=0D1117&ring=22d3ee&fire=9b6cff&currStreakLabel=22d3ee" alt="streak" />
+<img src="https://streak-stats.demolab.com/?user=adityayadav97&theme=tokyonight&hide_border=true&background=0D1117&ring=22d3ee&fire=9b6cff&currStreakLabel=22d3ee" alt="streak" />
 
-<br/><br/>
+</div>
 
-<img src="https://github-profile-trophy.vercel.app/?username=adityayadav97&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="trophies" />
+<br/>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adityayadav97&theme=tokyonight" height="180" alt="repos per language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adityayadav97&theme=tokyonight" height="180" alt="most commit language" />
 
 </div>
 
